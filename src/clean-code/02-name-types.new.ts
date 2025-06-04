@@ -1,8 +1,8 @@
 (() => {
 
-    const TemperaturesCelsius = [33.6, 12.34];
+    const temperaturesCelsius = [33.6, 12.34];
 
-    const ServerIP = '123.123.123.123';
+    const serverIP = '123.123.123.123';
 
     const users = [{id: 1, email: 'fernando@google.com'},{ id: 2, email: 'juan@google.com' }, { id: 3, email: 'melissa@google.com' }];
 
